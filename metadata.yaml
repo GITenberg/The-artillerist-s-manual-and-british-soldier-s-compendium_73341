@@ -1,11 +1,16 @@
 _repo: The-artillerist-s-manual-and-british-soldier-s-compendium_73341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73341-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, F. A.
     gutenberg_agent_id: '57039'
     url: http://www.gutenberg.org/2009/agents/57039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73341#The-artillerist-s-manual-and-british-soldier-s-compendium
 gutenberg_issued: '2024-04-06'
 gutenberg_type: Text
 identifiers:
